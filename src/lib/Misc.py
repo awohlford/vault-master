@@ -10,7 +10,7 @@ def logo():
     print(r"      \ \/ / _` | | | | | __|    .' |_   |_| '.")
     print(r"       \  / (_| | |_| | | |_     '.__________.'")
     print(r"        \/ \__,_|\__,_|_|\__|    |            |")
-    print(r"                                 '.__________.'")
+    print(r"          Alexander Wohlford     '.__________.'")
 
 
 def createFolderIfMissing(folderPath):
